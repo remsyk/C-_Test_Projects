@@ -1,0 +1,3 @@
+ Category|   Number|Total Price|Total Milage|
+      New|         2|     33000|       250|
+     Used|         1|       700|    254000|
